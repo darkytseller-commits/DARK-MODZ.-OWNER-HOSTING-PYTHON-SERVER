@@ -24,3 +24,4 @@ qrcode>=8.0
 pycryptodome>=3.21.0
 python-dateutil>=2.9.0
 websocket-client>=1.8.0
+gunicorn
